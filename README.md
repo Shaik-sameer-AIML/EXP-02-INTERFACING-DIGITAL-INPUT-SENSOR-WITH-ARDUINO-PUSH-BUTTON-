@@ -62,6 +62,7 @@ CIRCUIT DIAGRAM
 
 FIGURE -03
 ### Before simulation
+![output](https://github.com/Shaik-sameer-AIML/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/1.PNG?raw=true)
 
 
 
@@ -101,7 +102,7 @@ void loop()
 
 Output of the simulation :
 
-[My image](username.github.com/repository/img/image.jpg)
+![output](https://github.com/Shaik-sameer-AIML/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/2.PNG?raw=true)
 ### Result
 Thus, we have interfaced a digital input (push button) and blink of LED upon activation.
 
