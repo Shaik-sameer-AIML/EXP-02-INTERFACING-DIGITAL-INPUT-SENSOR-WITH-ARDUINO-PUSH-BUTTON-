@@ -102,7 +102,9 @@ void loop()
 
 Output of the simulation :
 ### BEFORE RUNNING THE SIMULATION:
-![output](
+![output](https://github.com/Shaik-sameer-AIML/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/3.PNG?raw=true)
+### AFTER RUNNING THE SIMULATION:
+
 
 ![output](https://github.com/Shaik-sameer-AIML/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/2.PNG?raw=true)
 ### Result
